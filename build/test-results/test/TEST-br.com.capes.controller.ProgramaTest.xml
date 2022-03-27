@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.capes.controller.ProgramaTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-03-27T12:17:52" hostname="RGBPC" time="1.069">
+  <properties/>
+  <testcase name="codificarNomeUmaLetra()" classname="br.com.capes.controller.ProgramaTest" time="0.013"/>
+  <testcase name="codificarNomeMultiplasPalavras()" classname="br.com.capes.controller.ProgramaTest" time="0.001"/>
+  <testcase name="buscarBolsistaZeroComBolsistaZero()" classname="br.com.capes.controller.ProgramaTest" time="0.13"/>
+  <testcase name="consultarMedAnualAnoValido()" classname="br.com.capes.controller.ProgramaTest" time="0.067"/>
+  <testcase name="consultarMedAnualAnoZero()" classname="br.com.capes.controller.ProgramaTest" time="0.055"/>
+  <testcase name="buscarBolsistaZeroNulo()" classname="br.com.capes.controller.ProgramaTest" time="0.066"/>
+  <testcase name="codificarNomeTresLetra()" classname="br.com.capes.controller.ProgramaTest" time="0.0"/>
+  <testcase name="pesquisarNomeVazio()" classname="br.com.capes.controller.ProgramaTest" time="0.001"/>
+  <testcase name="codificarNomeDuasLetra()" classname="br.com.capes.controller.ProgramaTest" time="0.0"/>
+  <testcase name="pesquisarNomeComRetorno()" classname="br.com.capes.controller.ProgramaTest" time="0.159"/>
+  <testcase name="rankingValoresBaixosValido()" classname="br.com.capes.controller.ProgramaTest" time="0.239"/>
+  <testcase name="rankingValoresAltosValido()" classname="br.com.capes.controller.ProgramaTest" time="0.217"/>
+  <testcase name="codificarNomeUmaPalavra()" classname="br.com.capes.controller.ProgramaTest" time="0.001"/>
+  <testcase name="pesquisarNomeNaoExiste()" classname="br.com.capes.controller.ProgramaTest" time="0.059"/>
+  <testcase name="pesquisarNomeNulo()" classname="br.com.capes.controller.ProgramaTest" time="0.001"/>
+  <testcase name="consultarMedAnualAnoInvalido()" classname="br.com.capes.controller.ProgramaTest" time="0.055"/>
+  <testcase name="codificarNomeVazio()" classname="br.com.capes.controller.ProgramaTest" time="0.0"/>
+  <testcase name="codificarNomeNulo()" classname="br.com.capes.controller.ProgramaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
